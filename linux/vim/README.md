@@ -1,3 +1,3 @@
 # Vim
 
-Vim Related Knowledge Storage
+Zettels related to Vim.
