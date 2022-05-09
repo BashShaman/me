@@ -1,3 +1,3 @@
 # Vim
 
-Zettels related to Vim.
+Notes related to Vim.
