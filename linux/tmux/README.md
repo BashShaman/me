@@ -1,3 +1,3 @@
 # Tmux
 
-Zettels related to Tmux.
+Notes related to Tmux.
