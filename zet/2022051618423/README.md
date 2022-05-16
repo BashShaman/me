@@ -5,4 +5,4 @@ The equality operator (`==`) is used to compare the sequences of bits which are 
 Use `.equals()` method to compare the content inside objects. It's the way to compare strings, for example.
 
 
-    #java #object
+    #java #object #comparison #equals #equality_operator
