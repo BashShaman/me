@@ -1,4 +1,4 @@
-# Garbage Collector in Java
+# Garbage Collector
 
 Garbage collector is a program which controls objects in **the heap**. If an object has no links to itself it's considered unreachable and can be removed from the heap by the collector.
 
