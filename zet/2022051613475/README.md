@@ -1,4 +1,4 @@
-# Variables in Java
+# Variables
 
 There are instance variables (the state of an object) and local variables (are defined inside methods).
 
