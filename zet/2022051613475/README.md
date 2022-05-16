@@ -8,4 +8,4 @@ A variable can be thought as a container with a particular size. It's save to as
 
 If a reference variable was declared without asignment it's value is `null` (it contains *a null reference*). It's possible to assign `null` to any reference variable to sever it's connection to the object in the heap. If an object has no links to it, it becomes a candidate to be garbage collected. 
 
-    #Java #variable #primitive #reference
+    #java #variable #primitive #reference
