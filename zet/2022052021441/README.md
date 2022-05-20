@@ -28,3 +28,5 @@ Class definition in Java can contain a list of attributes. Every instance of a p
 ## Behavior
 
 The behavior of an object is determined by the class of this object. Unlike values of attributes, every instance of a prticular class shares methods with other instances of the class. Public methods and attributes of a class form *the interface* of this class (what an instance of the class can do). The implementation (how object works internally) must be hidden to the user.
+
+        #java #object #identity #state #behavior #type
